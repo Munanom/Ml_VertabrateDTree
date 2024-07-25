@@ -8,16 +8,17 @@ Dataset
 
 # A CSV file with columns:
 
-Name
-Warm-blooded
-Gives Birth
-Aquatic Creature
-Aerial Creature
-Has Legs
-Hibernates
-Class
-Installation
-Install the required Python packages:
+1. Name
+2. Warm-blooded
+3. Gives Birth
+4. Aquatic Creature
+5. Aerial Creature
+6. Has Legs
+7. Hibernates
+8. Class
+
+    
+# Install the required Python packages:
 
 bash
 Copy code
